@@ -11,3 +11,4 @@ Strange. This fragment seems familiar... almost like it echoed elsewhere in the 
 
 Additional clues:
 [tweet_leak]
+A screenshot was archived — mentions GhostNet’s link. But the `.onion` is now dead.
