@@ -7,8 +7,7 @@ ENCRYPTED:
 
 Image dump:
 [omen_fragment]
-
-ShadowNet failed. The onion's gone cold. But mirrors remember.
+Strange. This fragment seems familiar... almost like it echoed elsewhere in the feed
 
 Additional clues:
 [tweet_leak]
