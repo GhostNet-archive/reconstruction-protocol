@@ -7,7 +7,7 @@ ENCRYPTED:
 
 Image dump:
 [omen_fragment.png]
-Strange. This fragment seems familiar... almost like it echoed elsewhere in the feed
+Strange. This fragment seems familiar... almost like it echoed elsewhere in the feed.
 
 Additional clues:
 [tweet_leak.png]
