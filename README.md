@@ -7,6 +7,7 @@ ENCRYPTED:
 
 Image dump:
 [omen_fragment]
+
 ShadowNet failed. The onion's gone cold. But mirrors remember.
 
 Additional clues:
